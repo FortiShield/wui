@@ -5085,10 +5085,10 @@
     "@types/scheduler" "*"
     csstype "^3.0.2"
 
-"@types/refractor@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@types/refractor/-/refractor-3.0.2.tgz#2d42128d59f78f84d2c799ffc5ab5cadbcba2d82"
-  integrity sha512-2HMXuwGuOqzUG+KUTm9GDJCHl0LCBKsB5cg28ujEmVi/0qgTb6jOmkVSO5K48qXksyl2Fr3C0Q2VrgD4zbwyXg==
+"@types/refractor@^3.4.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@types/refractor/-/refractor-3.4.0.tgz#7a8f982e100d3319ee0e8f93a088d093cd145a21"
+  integrity sha512-ZVLDkJxBQgvulG7R+xzgsJVODJVr0hlpCiMnEcxeJwCIzCSUwCHrsuQmd9KGZm//ujeuV9WHiVGUawaZkLLJrQ==
   dependencies:
     "@types/prismjs" "*"
 
