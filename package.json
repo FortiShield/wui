@@ -82,7 +82,7 @@
     "rehype-react": "^6.2.1",
     "rehype-stringify": "^8.0.0",
     "remark-breaks": "^2.0.2",
-    "remark-emoji": "^2.1.0",
+    "remark-emoji": "^2.2.0",
     "remark-parse-no-trim": "^8.0.4",
     "remark-rehype": "^8.0.0",
     "tabbable": "^5.3.3",
